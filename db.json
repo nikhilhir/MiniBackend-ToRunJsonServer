@@ -68,5 +68,16 @@
   "wish":[],
   "furniture":[],
   "wishlisted":[],
-  "todos":[]
+  "todos":[
+    {
+      "id":1,
+      "title":"Do Assignment",
+      "status":false
+    },
+     {
+      "id":2,
+      "title":"Complit Project",
+      "status":false
+    }
+  ]
 }
