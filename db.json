@@ -67,5 +67,6 @@
   "dummy":[],
   "wish":[],
   "furniture":[],
-  "wishlisted":[]
+  "wishlisted":[],
+  "todos":[]
 }
