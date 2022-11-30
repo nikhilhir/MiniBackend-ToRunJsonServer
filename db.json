@@ -79,5 +79,32 @@
       "title":"Complit Project",
       "status":false
     }
+  ],
+  "expences":[
+    {
+    "id": "1",
+    "title": "pay tution fees",
+    "price": "$1100",
+    "date": "05/10/2010"
+  },
+  {
+    "id": "2",
+    "title": "pay extra fees",
+    "price": "$5100",
+    "date": "05/10/2110"
+  },
+  {
+    "id": "3",
+    "title": "online class fees",
+    "price": "$7100",
+    "date": "15/10/2015"
+  },
+  {
+    "id": "4",
+    "title": "pertoll charge",
+    "price": "$500",
+    "date": "15/10/2022"
+  }
+  
   ]
 }
